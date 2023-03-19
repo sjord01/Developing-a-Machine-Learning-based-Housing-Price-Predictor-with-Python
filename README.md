@@ -1,4 +1,4 @@
-# Housing Prediction
+# Developing a Machine Learning-based Housing Price Predictor with Python
 Machine Learning application of a of predicting housing values using regression task utilizing the SciKit-Learn extensions; the pipeline has various algorithms such as Linear Regression, Decision Trees, and Random Forests.
 
 ![ml4](https://user-images.githubusercontent.com/104819501/222014297-07d67664-ca49-48be-894c-a2593e763b81.png)
